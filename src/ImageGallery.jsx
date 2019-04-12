@@ -1,5 +1,5 @@
 import React from 'react';
-import Swipeable from 'react-swipeable';
+import { Swipeable } from 'react-swipeable';
 import throttle from 'lodash.throttle';
 import debounce from 'lodash.debounce';
 import ResizeObserver from 'resize-observer-polyfill';
